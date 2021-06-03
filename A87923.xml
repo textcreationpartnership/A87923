@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a friend, occasioned by the receipt of His Majesties most gracious expresses, and declaration.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87923</idno><idno type="EEBO-CITATION">99867514</idno>
+  <idno type="VID">119828</idno>
+  <idno type="EEBO-PROQUEST">2240932277</idno>
+  
+            <idno type="STC">Wing L1376</idno>
+            <idno type="STC">Thomason E1023_9</idno>
+            <idno type="STC">ESTC R208572</idno>
+            <idno type="PROQUEST">99867514</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867514e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119828)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1023[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a friend, occasioned by the receipt of His Majesties most gracious expresses, and declaration.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, MDCLX. [1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term type="topical_term">Restorations, Political --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119828:1"/>
+            <pb facs="tcp:119828:1"/>
+            <p>A LETTER From A FRIEND, OCCASIONED By the Receipt of His MAJESTIES Most Gracious EXPRESSES, AND Declaration.</p>
+            <p>Printed in the Year, <hi>MDCLX.</hi>
+               <add>May 8</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119828:2"/>
+            <pb n="3" facs="tcp:119828:2"/>
+            <head>A LETTER from a Friend, occasioned by the Receipt of his MAIESTIES most Gracious <hi>Expresses</hi> and <hi>Declaration.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> May well call your Last, the greatest Kindnesse of your Life, since it was the greatest Comfort of Mine: and suited to the Satisfaction of my Dear<g ref="char:EOLhyphen"/>est Passions. To treat you freely; <hi>I</hi> reckon what concerns your Health, and Friendship, as the least part of that which pleases me; not that <hi>I</hi> love you less then <hi>I</hi> ought: but as <hi>I</hi> ought, <hi>I</hi> love my Prince and Countrey, and without Competition.</p>
+            <p>
+               <hi>I</hi> have Received, and Soberly perused <hi>the Gratious Messages</hi> you sent me; nor do <hi>I</hi> wonder at the Universal Joy, you say they have produced, when <hi>I</hi> consider that there's no Subject in them for Exception. <hi>I</hi> am impatient till <hi>I</hi> hear what Re<g ref="char:EOLhyphen"/>turne; and with that, Fail not of your own Judgement too, as to the issue, for <hi>I</hi> do much depend upon it. You might have spared the bidding me write at large, for 'tis my use to Fill my paper, but <hi>I</hi> shall do it the more willingly now, because, if <hi>I</hi> am tedious in Obedience, the Fault is Yours, not Mine. To give my self some Method; First, take my Thoughts of what you sent Me.</p>
+            <p>HAve not <hi>I</hi> ever told you, that the Fairest Character of our <hi>Dear Master,</hi> would be the Naked Story of his
+<pb n="4" facs="tcp:119828:3"/>
+               <hi>Actions,</hi> if ever God should blesse him with the means of Comforting his people, according to the <hi>Noble, Just,</hi> and <hi>Tender Inclinations</hi> of his Soul? Mark but the present State of Circumstances, and then Agree with me, that fully to express the <hi>Dignity</hi> of a <hi>Prince,</hi> and the <hi>Indulgence</hi> of a <hi>Pater Patriae,</hi> is the main <hi>Stope</hi> and <hi>Tendency</hi> of his <hi>Royal DECLARATION.</hi> (which yet it self is but a narrow <hi>Earnest</hi> of <hi>Future,</hi> and of <hi>Greater Blessings.</hi>
+            </p>
+            <p>Is not the State of <hi>France</hi> well nigh offended at his Refusal, to Command the <hi>Treasure,</hi> and the <hi>Men</hi> they offer him: Beside the severall Tenders of considerable supplies from <hi>Spain,</hi> and other parts? But this, you'll say, is but an inte<g ref="char:EOLhyphen"/>rest of <hi>State,</hi> to save his Countrey from Depopulation by a a <hi>Forraign</hi> Power. Look further then, and see the Torrent of the English Nation, whose prone, and Impetuous Course, most certainly overthrowes whatsoever Opposes it: the Entire People being Resolved upon their <hi>Soveraigns Returne,</hi> to his Due <hi>Rights,</hi> and <hi>Royalties,</hi> with <hi>Honour, Liberty</hi> and <hi>Safety.</hi>—And yet in this state of <hi>Security,</hi> when, (were he but so mind<g ref="char:EOLhyphen"/>ed) he might as easily <hi>Punish,</hi> as <hi>Pardon;</hi> even at this instant, his Sacred <hi>Majesty</hi> is pleased not only to <hi>Extend,</hi> and <hi>Offer Grace</hi> and <hi>Indemnity,</hi> to all that Need it, and Lay hold on't; but to <hi>Endear</hi> the Bounty, he likewise <hi>Hastens</hi> the Assurance of his mercy to his People, in this his <hi>First Declaration,</hi> that our happiness may be <hi>Early</hi> too, as well as <hi>Great,</hi> and <hi>Lasting.</hi> We are not worthy of so Divine a Benefit, if we ascribe this Ardour in his Majestie, (directed to Compose and Quiet, all Doubtings; in his meer scrupulous <hi>Subiects</hi>) to any other Principle, then to a Bleeding Gentleness. of Temper, Inse<g ref="char:EOLhyphen"/>perable from his Royal Heart. How much have we then to Prayse God for; that from a Deep extremity of <hi>Wickednesse,</hi> and <hi>Bondage,</hi> hath Rays'd us up into the Hope, and Prospect
+<pb n="5" facs="tcp:119828:3"/>of the Contrary? It is not more our Duty, then our Interest, to cast our selves before his Majesties Feet; from whom, we are so well assured, never to fail of any Comforts which ei<g ref="char:EOLhyphen"/>ther <hi>Royal Justice, Prudence</hi> or Personal Goodness can con<g ref="char:EOLhyphen"/>ferr upon a People. Truely it seems to me, that nothing now remains undone, of order to a Finall Blessed Settlement, but to Implore and Hasten his Returne. <hi>Interests,</hi> both of Pro<g ref="char:EOLhyphen"/>perty, and Conscience are provided for, Offendors Pardon<g ref="char:EOLhyphen"/>ed; Nay which is more, the very <hi>Offences</hi> too? A care being taken to remove the <hi>Memory,</hi> as well as the <hi>Danger,</hi> of them▪ and to Consecrate the <hi>Civil Peace,</hi> by Sacramental Obligati<g ref="char:EOLhyphen"/>ons to a <hi>Christian Charity.</hi> I do not doubt, but those we have entrusted with our Thoughts, will Represent them truely; and that this Intermise will bring a speedy period to all our Troubles. I should Conclude this, even from the <hi>Reason, Honour,</hi> and <hi>Expedience</hi> of an <hi>Accord,</hi> in Evidence before me: beside that in Accompt from you: I finde that the Convention does unanimously Vote that way; yet after All this let me give you a Piece of Country Intelligence.</p>
+            <p>I am Acquainted with some Persons here, that are not ea<g ref="char:EOLhyphen"/>sily deceived: Men very wary, and of great Observation. In Company with some of these, Reading the Army Offi<g ref="char:EOLhyphen"/>cers Addresse (May 2.) One Clause there was, that we had long discourse upon (viz.) <hi>And we hope to Evince to his Majesty, and all the World, that we and all those that have been Engaged in the Parliament Cause, are his Majesties Best, and most Loyall Subjects, &amp;c.</hi>—'Twas urg'd, this passage was a little sharp, and more exclusive then was needfull: especi<g ref="char:EOLhyphen"/>ally considering with how Frank a Clearness, the Royall Party had declared it self, toward all Interests in favour of a Generall Agreement. The best I had to say, in their Be<g ref="char:EOLhyphen"/>half, was but the Inversion of <hi>Militat omnis Amans, &amp;c.—
+<pb n="6" facs="tcp:119828:4"/>Souldiers</hi> are <hi>Lovers,</hi> and no man Loyes aright, that can be<g ref="char:EOLhyphen"/>lieve any man else can Love so much as He. This jest was turned off, with a bitter Earnest; and one there was, (of an unlucky Guess) that told us positively.</p>
+            <p>Gentlemen do not deceive your selves. This Piece has no Relation to the Armies Business. Give them their <hi>Sales;</hi> their Act of <hi>Amnesty;</hi> their Liberty of <hi>Conscience,</hi> and their <hi>Pay,</hi> they ask no more. They are not peevish, in the point of Party: —the Question is not who are <hi>Best</hi> or <hi>Worst;</hi> but how to Reconcile all in the same point of Vertue, and of Kindness, without any Reproachfull marks of Humor, and Distinction. At this time, to Dispute the <hi>Cause</hi> over again, is to Renew the Warr, and to Embroyl us all afresh, by an Unnecessary and Dangerous scruple. To give you the Result of all, in short, he sayes, there is a Party now in <hi>London</hi> of the old Gang, that have their dayly meetings: and that a Back Friend of the Earl of <hi>Straffords</hi> is the prime man of the <hi>Cabale.</hi> Hinder the Kings Return, by Force, they cannot; so that their Business now is to <hi>Ensnare</hi> him: And if they can but make out such an Interest, as to procure such Limited Pro<g ref="char:EOLhyphen"/>posalls, as are already among themselves agreed upon, they cry the work is done. If it <hi>Miscarries</hi> 'tis but to cast the <hi>Odium</hi> upon the Army, and if it <hi>hits</hi> they Reap the Fruit of it them<g ref="char:EOLhyphen"/>selves.</p>
+            <p>This coming, from a sober hand, amuses me the more; and yet when I Consider how small the number is of the old stampe, I cannot think it possible that ever they can carry such a vote: Especially upon this point of Time, when One slip may Import so many Lives: And when so Many Re<g ref="char:EOLhyphen"/>solute, and Understanding Gentlemen have the Transaction in their own hands. I must confess, <hi>I</hi> wish the First Address were Fairly Over, for upon that depends the summ
+<pb n="7" facs="tcp:119828:4"/>of the Affair. But I suppose, that no dispute will be admit<g ref="char:EOLhyphen"/>ted, as to any Fundamentalls: and the Form being Ac<g ref="char:EOLhyphen"/>knowledg'd Monarchique. The Essentials to Kingship fall in of themselves. And yet we are perpetually Alarm'd here with strange <hi>Proposalls</hi> (by the Phanatiques, that when they can no longer vex our Bodies, and Estates, take yet some pleasure to torment our Thoughts. In Fine; should a<g ref="char:EOLhyphen"/>ny new Restrictions be pressed upon the King, Another warr must certainly ensue upon it: Either Immediately, in case of his Refusall; or six Moneths hence perhaps, in case of his Concession. But I hope providence ha's better things in store, for the <hi>Best of Kings,</hi> and for the <hi>Peevishest of Sub<g ref="char:EOLhyphen"/>jects.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>May 7. 1660.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
